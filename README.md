@@ -1,31 +1,13 @@
 # LampaUa App
 
-Native Android app wrapper for LampaUa.
+LampaUa App - це Android-додаток для користувачів нашого сервера LampaUa.
 
-The app opens the fixed LampaUa server URL:
+Він відкриває LampaUa з уже підготовленими налаштуваннями, авторизацією та плагінами сервера, щоб зручно користуватися сервісом на телевізорі, приставці або Android-пристрої.
 
-`http://lampaua.mooo.com/`
+Додаток встановлюється поруч зі звичайною LAMPA. Він не переписує її, не замінює і не заважає користуватися оригінальним додатком.
 
-The URL change menu is disabled. Website files, authorization, and plugins are loaded from the Lampac server, not embedded into the APK.
+## Завантажити
 
-## Download
+Актуальний APK доступний у розділі Releases:
 
-Use the latest APK from GitHub Releases:
-
-`lampaua-release-v1.0.20260603.7.apk`
-
-## Current Release
-
-- App name: `LampaUa`
-- Android package: `com.lampaua.app`
-- Version: `1.0.20260603.7`
-- Version code: `2026060307`
-- Start URL: `http://lampaua.mooo.com/`
-
-## Source
-
-The native Android source is based on:
-
-`https://github.com/lampa-app/LAMPA`
-
-Local build scripts and release signing files are kept outside this repository on the build machine.
+[lampaua-release-v1.0.20260603.7.apk](https://github.com/Hlushok/lampaua-app/releases/download/v1.0.20260603.7/lampaua-release-v1.0.20260603.7.apk)
