@@ -12,6 +12,13 @@ LampaUa App - це Android-додаток для користувачів наш
 
 [lampaua-release-v1.0.20260603.7.apk](https://github.com/Hlushok/lampaua-app/releases/download/v1.0.20260603.7/lampaua-release-v1.0.20260603.7.apk)
 
+APK універсальний і містить архітектури:
+
+- `arm64-v8a`
+- `armeabi-v7a`
+- `x86`
+- `x86_64`
+
 ## Джерело
 
 Рідний вихідний код Android базується на:

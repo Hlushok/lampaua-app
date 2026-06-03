@@ -29,6 +29,13 @@ LampaUa App відкриває наш сервер LampaUa з уже підго�
 |---|---:|
 | [**Завантажити LampaUa App**](https://github.com/Hlushok/lampaua-app/releases/download/v1.0.20260603.7/lampaua-release-v1.0.20260603.7.apk) | 58 МБ |
 
+APK універсальний і містить архітектури:
+
+- `arm64-v8a`
+- `armeabi-v7a`
+- `x86`
+- `x86_64`
+
 ## Встановлення
 
 1. Завантажте APK.
