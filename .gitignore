@@ -1,7 +1,9 @@
 *.apk
 *.jks
 keystore_config
-dist/
+/dist/
+/native/
+/tools/
 build/
 .gradle/
 local.properties
