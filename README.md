@@ -10,7 +10,7 @@ LampaUa App - це Android-додаток для користувачів наш
 
 Актуальний APK доступний у розділі Releases:
 
-[lampaua-release-v1.3.0.apk](https://github.com/Hlushok/lampaua-app/releases/download/v1.3.0/lampaua-release-v1.3.0.apk)
+[lampaua-release-v1.3.1.apk](https://github.com/Hlushok/lampaua-app/releases/download/v1.3.1/lampaua-release-v1.3.1.apk)
 
 APK універсальний і містить архітектури:
 
