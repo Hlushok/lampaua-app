@@ -7,3 +7,4 @@ keystore_config
 build/
 .gradle/
 local.properties
+.codex-tmp/
