@@ -2,6 +2,8 @@
 
 # LampaUa App v1.3.7
 
+> Відома регресія: на TV можливе зависання під час завантаження плагінів. Оновіться до [1.3.8](https://github.com/Hlushok/lampaua-app/releases/tag/v1.3.8), не очищаючи дані застосунку.
+
 Оновлення наповнення каналів головного екрана Android TV.
 
 [Завантажити APK](https://github.com/Hlushok/lampaua-app/releases/download/v1.3.7/lampaua-release-v1.3.7.apk)
