@@ -16,7 +16,7 @@ https://hlushok.github.io/lampaua-app/
 
 Актуальний APK доступний у розділі Releases:
 
-[lampaua-release-v1.3.9.apk](https://github.com/Hlushok/lampaua-app/releases/download/v1.3.9/lampaua-release-v1.3.9.apk)
+[lampaua-release-v1.4.0.apk](https://github.com/Hlushok/lampaua-app/releases/download/v1.4.0/lampaua-release-v1.4.0.apk)
 
 APK універсальний і містить архітектури:
 

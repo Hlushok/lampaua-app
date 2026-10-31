@@ -8,13 +8,13 @@
   const menuToggle = document.querySelector(".menu-toggle");
   const siteNavigation = document.querySelector(".site-nav");
   const fallbackRelease = {
-    version: "v1.3.3",
-    file: "lampaua-release-v1.3.3.apk",
-    size: 60403537,
-    publishedAt: "2026-09-11T07:14:27Z",
-    digest: "1c8edb4db50a5078cab049172b78e4725b62484b2b482e6a4a3405937f4a4473",
-    releaseUrl: `https://github.com/${repository}/releases/tag/v1.3.3`,
-    downloadUrl: `https://github.com/${repository}/releases/download/v1.3.3/lampaua-release-v1.3.3.apk`,
+    version: "v1.4.0",
+    file: "lampaua-release-v1.4.0.apk",
+    size: 60444063,
+    publishedAt: "2026-10-31",
+    digest: "34e77410507f7ed4c839e845993cc91237f9b8f442ab7e59ebdc0ac439ccecc2",
+    releaseUrl: `https://github.com/${repository}/releases/tag/v1.4.0`,
+    downloadUrl: `https://github.com/${repository}/releases/download/v1.4.0/lampaua-release-v1.4.0.apk`,
   };
 
   const setMenuOpen = (open) => {
